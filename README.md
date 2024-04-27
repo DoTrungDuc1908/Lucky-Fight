@@ -11,3 +11,8 @@ Luật trò chơi:
   + Phím A: đánh thường (địch sẽ mất 50 HP).
   + Phím S: đánh choáng (địch sẽ mất 25 HP và bạn có 50% khiến địch bị choáng và được đánh tiếp).
   + Phím H: hồi máu (bạn sẽ được hồi 40 HP).
+# GamePlay
+
+
+https://github.com/DoTrungDuc1908/Lucky-Fight/assets/147892068/8abdcd69-4b54-4aa2-bf6a-8a29c58b67dd
+
