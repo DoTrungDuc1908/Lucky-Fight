@@ -1,5 +1,5 @@
 # Lucky-Fight
-Fight in turns which based on your lucky
+Fight in turns which are based on your lucky
 # Instruction
 Luật trò chơi: 
 - Bạn sẽ phải đánh đến khi người bên kia hết máu.
