@@ -14,7 +14,11 @@ Luật trò chơi:
 # GamePlay
 
 
-https://github.com/DoTrungDuc1908/Lucky-Fight/assets/147892068/d97d1ad5-4f2a-4c89-8c37-3eeefc184a8d
+https://github.com/DoTrungDuc1908/Lucky-Fight/assets/147892068/6be5e3cd-6f00-48f4-9024-e048d4096db2
+
+
+
+
 
 
 
