@@ -1,0 +1,4 @@
+git mkdir music
+git add music/frum.wav
+git commit -m "Add files to new folder"
+git push
